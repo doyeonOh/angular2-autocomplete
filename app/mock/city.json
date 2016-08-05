@@ -1,0 +1,199 @@
+{
+"method":"search",
+"result":{
+  "list":[
+    {
+      "cityNameLN":"\uc544\ub514\uc2a4 \uc544\ubc14\ubc14",
+      "countryNameEN":"Ethiopia",
+      "type":"City",
+      "cityNameEN":"Addis Ababa",
+      "countryCode":"ET",
+      "countryNameLN":"\uc774\ub514\uc624\ud53c\uc544",
+      "stateCode":null,
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"ADD",
+          "airportNameEN":"Bole Intl Airport"
+        }
+      ],
+      "value":"ADD",
+      "cityCode":"ETADD"
+    },
+    {
+      "cityNameLN":"\ubd80\uc5d0\ub178\uc2a4\uc544\uc774\ub808\uc2a4",
+      "countryNameEN":"Argentina",
+      "type":"City",
+      "cityNameEN":"Buenos Aires",
+      "countryCode":"AR",
+      "countryNameLN":"\uc544\ub974\ud5e8\ud2f0\ub098",
+      "stateCode":null,
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"AEP",
+          "airportNameEN":"Jorge Newbery Airport"
+        }
+      ],
+      "value":"BUE",
+      "cityCode":"ARBUE"
+    },
+    {
+      "cityNameLN":"\uc54c\ub9c8\ud2f0",
+      "countryNameEN":"Kazakhstan",
+      "type":"City",
+      "cityNameEN":"Almaty",
+      "countryCode":"KZ",
+      "countryNameLN":"\uce74\uc790\ud750\uc2a4\ud0c4",
+      "stateCode":null,
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"ALA",
+          "airportNameEN":"Almaty Intl Airport"
+        }
+      ],
+      "value":"ALA",
+      "cityCode":"KZALA"
+    },
+    {
+      "cityNameLN":"\uc2a4\ud1a1\ud640\ub984",
+      "countryNameEN":"Sweden",
+      "type":"City",
+      "cityNameEN":"Stockholm",
+      "countryCode":"SE",
+      "countryNameLN":"\uc2a4\uc6e8\ub374",
+      "stateCode":null,
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"ARN",
+          "airportNameEN":"Arlanda Airport"
+        }
+      ],
+      "value":"STO",
+      "cityCode":"SESTO"
+    },
+    {
+      "cityNameLN":"\uc544\uc2a4\ud39c",
+      "countryNameEN":"United States",
+      "type":"City",
+      "cityNameEN":"Aspen",
+      "countryCode":"US",
+      "countryNameLN":"\ubbf8\uad6d",
+      "stateCode":"CO",
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"ASE",
+          "airportNameEN":"Pitkin County Airport"
+        }
+      ],
+      "value":"ASE",
+      "cityCode":"USASE"
+    },
+    {
+      "cityNameLN":"\uc544\uc21c\uc2dc\uc628",
+      "countryNameEN":"Paraguay",
+      "type":"City",
+      "cityNameEN":"Asuncion",
+      "countryCode":"PY",
+      "countryNameLN":"\ud30c\ub77c\uacfc\uc774",
+      "stateCode":null,
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"ASU",
+          "airportNameEN":"Silvio Pettirossi Intl Airport"
+        }
+      ],
+      "value":"ASU",
+      "cityCode":"PYASU"
+    },
+    {
+      "cityNameLN":"\uc544\ud14c\ub124",
+      "countryNameEN":"Greece",
+      "type":"City",
+      "cityNameEN":"Athens",
+      "countryCode":"GR",
+      "countryNameLN":"\uadf8\ub9ac\uc2a4",
+      "stateCode":null,
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"ATH",
+          "airportNameEN":"Eleftherios Venizelos Airport"
+        }
+      ],
+      "value":"ATH",
+      "cityCode":"GRATH"
+    },
+    {
+      "cityNameLN":"\uc560\ud2c0\ub79c\ud0c0",
+      "countryNameEN":"United States",
+      "type":"City",
+      "cityNameEN":"Atlanta",
+      "countryCode":"US",
+      "countryNameLN":"\ubbf8\uad6d",
+      "stateCode":"GA",
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"ATL",
+          "airportNameEN":"Hartsfield-Jackson Airport"
+        }
+      ],
+      "value":"ATL",
+      "cityCode":"USATL"
+    },
+    {
+      "cityNameLN":"\uc54c\ud22c\uc2a4",
+      "countryNameEN":"United States",
+      "type":"City",
+      "cityNameEN":"Altus",
+      "countryCode":"US",
+      "countryNameLN":"\ubbf8\uad6d",
+      "stateCode":"OK",
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"AXS",
+          "airportNameEN":"Quartz Moutain Regional Airport"
+        }
+      ],
+      "value":"LTS",
+      "cityCode":"USLTS"
+    },
+    {
+      "cityNameLN":"\uc544\ud0a4\ud0c0",
+      "countryNameEN":"Japan",
+      "type":"City",
+      "cityNameEN":"Akita",
+      "countryCode":"JP",
+      "countryNameLN":"\uc77c\ubcf8",
+      "stateCode":null,
+      "relatedItems":[
+        {
+          "type":"airport",
+          "value":"AXT",
+          "airportNameEN":"Akita Airport"
+        }
+      ],
+      "value":"AXT",
+      "cityCode":"JPAXT"
+    }
+  ],
+  "isSucceed":true
+},
+"condition":{
+"terms":"t",
+"exceptCountryCode":"KR"
+},
+"service":"flights.destinations",
+"languageCode":"KO",
+"timeZone":"Asia\/Seoul",
+"userNo":null,
+"currencyCode":"KRW",
+"apiKey":"MrGMb0FuIBR2QwDhMtYZG7vCARPb7jmUbrjC5Ss7PXg",
+"apikey":"temp"
+}
